@@ -1,0 +1,11 @@
+## System and generated files
+.DS_Store
+.sass-cache
+*.map
+
+## Directories
+public/files/
+node_modules/
+
+## Files
+npm-debug.log
